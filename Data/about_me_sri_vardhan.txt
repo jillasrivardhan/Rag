@@ -1,0 +1,128 @@
+ABOUT ME — SRIVARDHAN JILLA
+
+Professional Profile
+
+Name: Sri Vardhan Jilla GitHub: https://github.com/jillasrivardhan
+LinkedIn: https://www.linkedin.com/in/jilla-srivardhan/
+
+About Me
+
+I am a final-year B.Tech Computer Science Engineering student and an AI
+enthusiast who enjoys building practical software and AI-powered
+applications. I am passionate about Python development, Artificial
+Intelligence, Machine Learning, Generative AI, and full-stack
+development.
+
+My GitHub profile describes me as a final-year B.Tech CSE student, AI
+enthusiast, and full-stack developer who is focused on learning and
+building real-world projects.
+
+Technical Interests
+
+-   Python Development
+-   Artificial Intelligence
+-   Machine Learning
+-   Generative AI
+-   Large Language Model (LLM) Applications
+-   LangChain
+-   Ollama and Local LLMs
+-   Streamlit Application Development
+-   Django
+-   Data Analysis
+-   Pandas
+-   NumPy
+-   SQL and Databases
+-   HTML, CSS and JavaScript
+-   Git and GitHub
+-   Full-Stack Development
+-   Prompt Engineering
+-   AI Chatbots and Automation
+
+Technologies & Tools
+
+-   Python
+-   LangChain
+-   Ollama
+-   Streamlit
+-   Django
+-   Pandas
+-   NumPy
+-   Scikit-learn
+-   HTML5
+-   CSS3
+-   JavaScript
+-   SQL
+-   SQLite
+-   Git
+-   GitHub
+-   n8n
+-   AI Agents
+
+Projects and Work
+
+My GitHub contains projects covering AI, Generative AI, chatbots,
+machine learning, data analysis, web development, and learning
+experiments.
+
+Some of the publicly visible projects on my GitHub include:
+
+1.  AI Job Search Engine An AI-powered job search dashboard designed to
+    help students work with resume information and job listings.
+
+2.  LangChain Chatbot A conversational AI chatbot built using LangChain,
+    Ollama, and Streamlit.
+
+3.  LinkedIn Post Automation An automation workflow for generating and
+    publishing AI-related LinkedIn content using n8n and AI agents.
+
+4.  AI Chatbot A local AI chatbot built with Python, Streamlit, and
+    Ollama, providing a ChatGPT-style conversational interface using a
+    locally running model.
+
+5.  Level-1 Generative AI Projects A collection of beginner-friendly
+    Generative AI projects built with Python, LangChain, and Ollama.
+
+6.  Student Performance Prediction A machine learning classification
+    project that predicts a student’s final grade category using
+    academic, behavioral, and lifestyle-related factors.
+
+Learning Goals
+
+My current learning direction includes: - Becoming a skilled Full-Stack
+Python Developer - Building practical AI-powered applications -
+Strengthening Machine Learning and Data Science skills - Developing
+Generative AI and LLM-based applications - Improving problem-solving and
+programming skills - Learning modern AI development tools and
+frameworks - Building useful automation workflows - Contributing to
+open-source projects
+
+Development Approach
+
+I prefer learning by building projects and experimenting with practical
+implementations. My projects focus on applying programming, machine
+learning, Generative AI, and web technologies to create useful
+applications.
+
+Career Focus
+
+I am interested in opportunities related to: - Artificial Intelligence -
+Machine Learning - Generative AI - Python Development - Full-Stack
+Development - AI Application Development - LLM Application Development -
+Data Science and Data Analysis
+
+Online Profiles
+
+GitHub: https://github.com/jillasrivardhan
+
+LinkedIn: https://www.linkedin.com/in/jilla-srivardhan/
+
+Profile Source
+
+This profile summary was prepared using information publicly visible on
+the GitHub profile and the LinkedIn profile URL provided above.
+
+GitHub profile information accessed: https://github.com/jillasrivardhan
+
+Note: The LinkedIn page could not be directly read during retrieval, so
+no LinkedIn-specific claims have been added beyond the profile URL
+supplied.
