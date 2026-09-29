@@ -2,6 +2,7 @@ langchain
 langchain-core
 langchain-community
 langchain-ollama
+langchain-openai
 
 pypdf
 python-dotenv
