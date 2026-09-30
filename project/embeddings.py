@@ -1,30 +1,27 @@
-from dotenv import load_dotenv
-from langchain_openai import OpenAIEmbeddings
+
 import os
+from dotenv import load_dotenv
+
+#data ingestion libraries
+from langchain_community.document_loaders import TextLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+#embeddings
+
+from langchain_community.embeddings import JinaEmbeddings
 
 from chunking import spilts
 
-load_dotenv()
+from langchain_community.vectorstores import FAISS
 
-# Convert Document objects -> strings
-texts = [doc.page_content for doc in spilts]
 
-print(type(texts))
-print(type(texts[0]))
-print(texts[0])
+jina_key = os.getenv("JINA_API_KEY")
 
-embeddings_client = OpenAIEmbeddings(
-    model="jina-embeddings-v3",
-    api_key=os.getenv("JINA_API_KEY"),
-    base_url="https://api.jina.ai/v1",
+vectors = JinaEmbeddings(jina_key=jina_key, model_name="jina-embedding-v2-base-en")
+
+print("Generating embeddings for chunks...", vectors.model_name)
+
+store = FAISS.from_documents(
+   spilts,vectors
 )
 
-embeddings = embeddings_client.embed_documents(texts)
-
-print("Number of chunks:", len(texts))
-print("Number of embeddings:", len(embeddings))
-
-print("First embedding:")
-print(embeddings[0])
-
-print("Embedding dimension:", len(embeddings[0]))
